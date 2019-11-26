@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hooks-and-context/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-hooks-and-context/static/js/main.e555eb1d.chunk.js",
-    "main.js.map": "/react-hooks-and-context/static/js/main.e555eb1d.chunk.js.map",
-    "runtime-main.js": "/react-hooks-and-context/static/js/runtime-main.fb1c6427.js",
-    "runtime-main.js.map": "/react-hooks-and-context/static/js/runtime-main.fb1c6427.js.map",
-    "static/js/2.1d947750.chunk.js": "/react-hooks-and-context/static/js/2.1d947750.chunk.js",
-    "static/js/2.1d947750.chunk.js.map": "/react-hooks-and-context/static/js/2.1d947750.chunk.js.map",
-    "index.html": "/react-hooks-and-context/index.html",
-    "precache-manifest.5c56ed6f98ea0d43716de6e408cef228.js": "/react-hooks-and-context/precache-manifest.5c56ed6f98ea0d43716de6e408cef228.js",
-    "service-worker.js": "/react-hooks-and-context/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/react-hooks-and-context/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/react-hooks-and-context/static/media/logo.25bf045c.svg"
+    "main.css": "/create-react-app-template/static/css/main.b100e6da.chunk.css",
+    "main.js": "/create-react-app-template/static/js/main.b87dd9ad.chunk.js",
+    "main.js.map": "/create-react-app-template/static/js/main.b87dd9ad.chunk.js.map",
+    "runtime-main.js": "/create-react-app-template/static/js/runtime-main.54dd0122.js",
+    "runtime-main.js.map": "/create-react-app-template/static/js/runtime-main.54dd0122.js.map",
+    "static/js/2.1d947750.chunk.js": "/create-react-app-template/static/js/2.1d947750.chunk.js",
+    "static/js/2.1d947750.chunk.js.map": "/create-react-app-template/static/js/2.1d947750.chunk.js.map",
+    "index.html": "/create-react-app-template/index.html",
+    "precache-manifest.eab9c37df6a0687677e6c97154453783.js": "/create-react-app-template/precache-manifest.eab9c37df6a0687677e6c97154453783.js",
+    "service-worker.js": "/create-react-app-template/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/create-react-app-template/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/create-react-app-template/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb1c6427.js",
+    "static/js/runtime-main.54dd0122.js",
     "static/js/2.1d947750.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.e555eb1d.chunk.js"
+    "static/js/main.b87dd9ad.chunk.js"
   ]
 }
