@@ -1,4 +1,12 @@
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Notes
+
+- Update the `homepage` url on the package.json
+
+- Use `yarn deploy` to deploy the app to your `homepage`
 
 ## Available Scripts
 
